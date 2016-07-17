@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Username
+name: Nicola Dilillo
 
 # Short bio or description (displayed in the header)
-description: Programmer From Somewhere On Earth
+description: Noob programmer
 
 
 #
@@ -16,18 +16,18 @@ description: Programmer From Somewhere On Earth
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: agarwal.akshay.akshay8@gmail.com
-  facebook:
+  email: nicoladilillo98@gmail.com
+  facebook: nicoladilillo98
   flickr:
-  github: AkshayAgarwal007
+  github: nicoladilillo
   instagram:
-  linkedin: akshay-agarwal-782018a4
+  linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: 
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/3807565/akshay"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: /u/0/111650371814199182170
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
